@@ -1,6 +1,6 @@
 ![image info](tech-stack.jpeg)
 
-### Hi there 👋
+### echo Hello World
 
 
 Here are some ideas to get you started:
