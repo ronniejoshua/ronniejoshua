@@ -7,8 +7,6 @@ $ `echo` About Me:
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on developing data solutions using python and sql
 - 🌱 I’m currently learning Big Data Engineering Technologies
 - 👯 I’m looking to collaborate on data engineering & analytics engineering projects
