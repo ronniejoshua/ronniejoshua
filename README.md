@@ -1,3 +1,5 @@
+![image info](tech-stack.jpeg)
+
 ### Hi there 👋
 
 
