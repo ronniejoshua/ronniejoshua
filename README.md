@@ -14,3 +14,7 @@ $ `echo` About Me:
 - 🔭 I’m currently working on developing data solutions using python and sql
 - 🌱 I’m currently learning Big Data Engineering Technologies
 - 👯 I’m looking to collaborate on data engineering & analytics engineering projects
+
+## Some of my Github Stats
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=ronniejoshua&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/ronniejoshua/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=ronniejoshua&layout=compact)](https://github.com/ronniejoshua/github-readme-stats)
